@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @M35S
 
 - 👀 I’m interested in ...
-Games, Music, Art, Programming.
+Games, Music, Art & Programming.
 
 - 🌱 I’m currently learning ...
-C++, C#, UML.
+C++, C#... anything game related.
 
 - 💞️ I’m looking to collaborate on ...
-Interesting and meaningful projects.
+The next big thing.
 
 - 📫 How to reach me ...
 mastermikeshaw@gmail.com
