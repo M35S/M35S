@@ -4,13 +4,13 @@
 Games, Music, Art & Programming.
 
 - 🌱 I’m currently learning ...
-C++, C#... anything game related.
+C++, C#... any language that has nice syntax. A bit of other artsy stuff too.
 
 - 💞️ I’m looking to collaborate on ...
 The next big thing.
 
 - 📫 How to reach me ...
-mastermikeshaw@gmail.com
+www.linkedin.com/in/michael-e-shaw
 
 <!---
 M35S/M35S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
