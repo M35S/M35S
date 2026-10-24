@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @M35S
+# Hi, I'm Michael Shaw 👋 (@M35S)
+I am a programmer that mainly focuses on game development & interactive systems.
 
-- 👀 I’m interested in ...
-Games, Music, Art & Programming.
+## 🛠️ Tech Stack
+* **Languages:** C++, C#, Python, GDScript.
+* **Interests:** Game Design, Music Production, Digital Art & Systems Programming.
 
-- 🌱 I’m currently learning ...
-C++, C#... any language that has nice syntax. A bit of other artsy stuff too.
+## 🤝 Collaboration
+I am actively looking to collaborate on **indie game projects or innovative software tools**. If you need a programmer who understands the creative side (art and music), let's talk.
 
-- 💞️ I’m looking to collaborate on ...
-The next big thing.
-
-- 📫 How to reach me ...
-www.linkedin.com/in/michael-e-shaw
+## 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/michael-e-shaw](https://linkedin.com)
 
 <!---
 M35S/M35S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
